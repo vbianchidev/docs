@@ -1,0 +1,19 @@
+{
+  "name": "InterlitisDocs",
+  "version": "0.0.1",
+  "description": "Documentação do interlitis e suas regras de negócio",
+  "main": "index.js",
+  "authors": {
+    "name": "vitor bianchi",
+    "email": "vitor.biansil@gmail.com"
+  },
+  "repository": "/InterlitisDocs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
